@@ -6,7 +6,7 @@
 # Leave empty ("") if the site has its own domain (e.g. veloraptors-hd.de)
 # or lives at "https://<username>.github.io/". If it instead lives at
 # "https://<username>.github.io/<repo-name>/", set this to "/<repo-name>".
-baseUrl: ""
+baseUrl: "/website"
 
 siteName:
   de: "VELOciraptors HD"
