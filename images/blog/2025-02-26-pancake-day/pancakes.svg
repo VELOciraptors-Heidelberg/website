@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Placeholder photo">
+  <rect width="800" height="600" fill="#f6ead0" />
+  <ellipse cx="400" cy="470" rx="220" ry="34" fill="#e0c98c" />
+  <g fill="#e8b25a" stroke="#c98c3c" stroke-width="4">
+    <ellipse cx="400" cy="430" rx="150" ry="26" />
+    <ellipse cx="400" cy="392" rx="150" ry="26" />
+    <ellipse cx="400" cy="354" rx="150" ry="26" />
+  </g>
+  <path d="M370 340 Q400 300 430 340 Q450 320 440 300" stroke="#e07a3e" stroke-width="6" fill="none" stroke-linecap="round" />
+  <text x="400" y="550" font-family="system-ui, sans-serif" font-size="22" fill="#8a5a20" text-anchor="middle">Platzhalterbild — replace with a real photo</text>
+</svg>

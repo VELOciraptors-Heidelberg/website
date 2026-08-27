@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Placeholder photo">
+  <rect width="800" height="600" fill="#dfe9d8" />
+  <path d="M0 420 L200 300 L360 420 L520 260 L800 420 L800 600 L0 600 Z" fill="#b9cdae" />
+  <circle cx="650" cy="140" r="70" fill="#f3e3b5" />
+  <g stroke="#3a6b35" stroke-width="10" fill="none" stroke-linecap="round">
+    <circle cx="300" cy="440" r="45" />
+    <circle cx="440" cy="440" r="45" />
+    <path d="M300 440 L370 380 L440 440 M370 380 L340 320 L400 320" stroke-linejoin="round" />
+  </g>
+  <text x="400" y="540" font-family="system-ui, sans-serif" font-size="22" fill="#3a6b35" text-anchor="middle">Platzhalterbild — replace with a real photo</text>
+</svg>

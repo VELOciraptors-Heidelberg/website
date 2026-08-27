@@ -1,0 +1,47 @@
+# ----------------------------------------------------------------------
+# Site-wide settings. Edit values on the right of each ":" — do not
+# change anything on the left, and keep the indentation (spaces) as is.
+# ----------------------------------------------------------------------
+
+# Leave empty ("") if the site has its own domain (e.g. veloraptors-hd.de)
+# or lives at "https://<username>.github.io/". If it instead lives at
+# "https://<username>.github.io/<repo-name>/", set this to "/<repo-name>".
+baseUrl: ""
+
+siteName:
+  de: "VELOciraptors HD"
+  en: "VELOciraptors HD"
+
+# Social media links shown as icons in the header.
+# To add a new channel, copy one block (the three lines starting with "-")
+# and fill in your own platform/url/label.
+# Supported "platform" values (get a matching icon automatically):
+#   instagram, facebook, whatsapp, strava, komoot, youtube, tiktok
+# Anything else falls back to a generic "website" link icon.
+social:
+  - platform: instagram
+    url: "https://instagram.com/veloraptors_hd"
+    label: "Instagram"
+  - platform: whatsapp
+    url: "https://chat.whatsapp.com/example"
+    label: "WhatsApp"
+  - platform: strava
+    url: "https://strava.com/clubs/example"
+    label: "Strava"
+  - platform: komoot
+    url: "https://komoot.com/user/example"
+    label: "Komoot"
+
+# Sponsor logos shown in the footer.
+# To add a sponsor: drop their logo file into images/sponsors/ and add
+# a block below (copy one, edit the three values).
+sponsors:
+  - name: "Sponsor Name"
+    logo: "/images/sponsors/placeholder.svg"
+    url: "https://example.com"
+
+# Short contact line shown in the footer on every page.
+# Leave phone empty ("") to hide that line entirely.
+contact:
+  email: "info@veloraptors-hd.de"
+  phone: ""

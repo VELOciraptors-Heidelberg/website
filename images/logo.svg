@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="44" height="44" role="img" aria-label="VELOciraptors HD logo">
+  <circle cx="32" cy="32" r="30" fill="#3a6b35" />
+  <circle cx="32" cy="32" r="30" fill="none" stroke="#e07a3e" stroke-width="3" />
+  <circle cx="32" cy="32" r="14" fill="none" stroke="#ffffff" stroke-width="3" />
+  <circle cx="32" cy="32" r="3" fill="#ffffff" />
+  <path d="M32 18 L32 32 L43 38" stroke="#ffffff" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+</svg>
