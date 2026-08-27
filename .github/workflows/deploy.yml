@@ -28,7 +28,12 @@ jobs:
         with:
           path: public
 
+  # Only runs when someone deliberately clicks "Run workflow" in the
+  # Actions tab (or `gh workflow run deploy.yml`) — a normal push only
+  # builds and validates, it never goes live on its own. Remove the `if:`
+  # line below once you want every push to main to publish automatically.
   deploy:
+    if: github.event_name == 'workflow_dispatch'
     needs: build
     runs-on: ubuntu-latest
     environment:

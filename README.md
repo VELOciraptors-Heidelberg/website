@@ -42,17 +42,38 @@ Then, any time you want to preview changes:
 python3 scripts/build.py
 ```
 
-This regenerates the entire `public/` folder from scratch. Open
-`public/de/index.html` (or `public/en/index.html`) directly in a browser —
-no server required, everything is plain static HTML/CSS/JS. `public/` is
-gitignored; it's rebuilt on every push by GitHub Actions, never committed.
+This regenerates the entire `public/` folder from scratch. The pages use
+root-relative paths (e.g. `/css/style.css`) for clean URLs, so opening a
+file directly (`file://...`) will *not* load the CSS/JS/images correctly —
+serve it over a tiny local server instead:
+
+```
+python3 -m http.server 8000 --directory public
+```
+
+Then open <http://localhost:8000/de/> (or `/en/`) in a browser. Stop the
+server with Ctrl+C when you're done. `public/` is gitignored; it's
+rebuilt on every push by GitHub Actions, never committed.
 
 ## Deploying (GitHub Pages)
 
-`.github/workflows/deploy.yml` builds the site and deploys it automatically
-on every push to `main`. One-time setup after the repo exists on GitHub:
-**Settings → Pages → Source → "GitHub Actions"**. After that, editing a
-file on github.com and committing is enough to update the live site.
+`.github/workflows/deploy.yml` has two jobs:
+
+- **build** runs on every push to `main` — it just checks the site still
+  builds correctly. It does *not* publish anything.
+- **deploy** only runs when someone manually clicks **"Run workflow"** on
+  the `deploy.yml` workflow in the repo's **Actions** tab (or
+  `gh workflow run deploy.yml`). This is the step that actually goes
+  live/updates the live site.
+
+So pushing commits is always safe to do at any point — the site only ever
+goes (or stays) live when someone deliberately triggers a deploy run. Once
+you *do* want every push to auto-publish, delete the
+`if: github.event_name == 'workflow_dispatch'` line from the `deploy` job.
+
+One-time setup after the repo exists on GitHub: **Settings → Pages →
+Source → "GitHub Actions"**. This alone doesn't publish anything — nothing
+is actually live until the first manual "Run workflow" deploy.
 
 **If the site ends up at `https://<user>.github.io/<repo-name>/`** (a
 GitHub Pages *project* page, as opposed to a custom domain or a
