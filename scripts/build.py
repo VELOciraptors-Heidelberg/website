@@ -7,6 +7,7 @@ Run with:  python3 scripts/build.py
 (GitHub Actions runs this same command automatically on every push.)
 """
 
+import os
 import re
 import shutil
 import sys
@@ -208,7 +209,13 @@ def build_blog_page(lang, site):
 
 def load_site():
     with open(DATA_FILE, encoding="utf-8") as f:
-        return yaml.safe_load(f)
+        site = yaml.safe_load(f)
+    # Lets `scripts/preview.py` build for local viewing (served at the
+    # domain root) without having to edit data/site.yml's real baseUrl,
+    # which is set for wherever the site is actually deployed.
+    if "SITE_BASE_URL" in os.environ:
+        site["baseUrl"] = os.environ["SITE_BASE_URL"]
+    return site
 
 
 def copy_static_assets():
