@@ -1,22 +1,40 @@
 ---
-title: "Cycling Camp – VELOciraptors on Tour"
+title: "Cycling Camp – VELOciraptors on tour"
 date: 2025-03-11
 draft: false
+type: "blog"
+image: "blog250311.1.jpg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat.
+**🗓️ Cycling Camp – VELOciraptors on tour**
 
-![View over Lago Maggiore](/images/blog/2025-03-11-cycling-camp/lake.svg "Our hostel right on the shore of Lago Maggiore")
+📍 Verbania, Lake Maggiore, Italy  
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+📅 Sat. 13.09. to Sun. 21.09.  
 
-- Travelling together by train
-- Staying in a hostel, cooking together
-- Rides through the Alps, as much as you like
+🚴 Relaxed and social vibes – ride as much as you like!  
 
-[Sign up here](https://forms.gle/example)
+📝 [All information (click here)](https://docs.google.com/document/d/18lktBcHTm40SWuy5f11yta63CMB3WJq-cQxDIZO6jUU/edit?usp=sharing)  
+
+📝 [Sign up form (click here)](https://forms.gle/qdzdTUUA6XztGvUP9)  
+
+📌 Registration deadline: end of March  
+
+🛏️ Only 20 spots guaranteed  
+
+<div style="margin-top: 1.0rem;"></div>
+
+It’s finally happening – we’re heading together to the beautiful shores of Lake Maggiore!  
+We’ll stay in a hostel with 20 beds spread across two rooms.  
+In the evenings we’ll cook together for the perfect group vibe.  
+<div style="margin-top: 1.0rem;"></div>
+
+During the day, we’ll explore northern Italy or ride into the Alps.  
+It’s not a training camp – just a relaxed holiday on two wheels 🚴‍♀️  
+<div style="margin-top: 1.0rem;"></div>
+
+We’ll travel by train there and back. If you can bring a car – even better!  
+All the info is in the form. Got questions? Feel free to reach out 😊  
+<div style="margin-top: 1.0rem;"></div>
+
+<img src="/images//blog/blog250311.1.jpg" alt="Cycling Camp Lago Maggiore" style="width:100%; max-width:500px; display:block; margin: 1.5em auto;" />

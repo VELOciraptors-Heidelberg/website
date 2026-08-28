@@ -4,10 +4,10 @@
    Change a color by editing the value after the colon (keep the #).
    ======================================================================== */
 :root {
-  --color-bg: #ffffff;          /* page background */
+  --color-bg: #a3ccdb;          /* page background */
   --color-text: #212121;        /* main body text */
   --color-text-muted: #5b5b52;  /* captions, dates, secondary text */
-  --color-primary: #3a6b35;     /* links, headings, buttons */
+  --color-primary: #bd49e4;     /* links, headings, buttons */
   --color-primary-dark: #274a24;/* hover/active state of the above */
   --color-accent: #d4691e;      /* focus outline, small highlights */
   --color-surface: #f6f4ef;     /* section backgrounds, cards */

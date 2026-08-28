@@ -9,8 +9,8 @@
 baseUrl: "/website"
 
 siteName:
-  de: "VELOciraptors HD"
-  en: "VELOciraptors HD"
+  de: "VELOciraptors Heidelberg"
+  en: "VELOciraptors Heidelberg"
 
 # Social media links shown as icons in the header.
 # To add a new channel, copy one block (the three lines starting with "-")
@@ -20,13 +20,13 @@ siteName:
 # Anything else falls back to a generic "website" link icon.
 social:
   - platform: instagram
-    url: "https://instagram.com/veloraptors_hd"
+    url: "https://www.instagram.com/velociraptorsheidelberg/"
     label: "Instagram"
   - platform: whatsapp
-    url: "https://chat.whatsapp.com/example"
+    url: "https://chat.whatsapp.com/I2tPeWQAxrYIuMTGusKcGU"
     label: "WhatsApp"
   - platform: strava
-    url: "https://strava.com/clubs/example"
+    url: "https://www.strava.com/clubs/1194781"
     label: "Strava"
   - platform: komoot
     url: "https://komoot.com/user/example"
@@ -36,12 +36,15 @@ social:
 # To add a sponsor: drop their logo file into images/sponsors/ and add
 # a block below (copy one, edit the three values).
 sponsors:
-  - name: "Sponsor Name"
-    logo: "/images/sponsors/placeholder.svg"
-    url: "https://example.com"
+  - name: "Carl und Carla"
+    logo: "/images/sponsors/carlundcarla.png"
+    url: "https://carlundcarla.de"
+  - name: "Ruprecht Rides"
+    logo: "/images/sponsors/ruprechtrides.png"
+    url: "https://ruprechtrides.de"
 
 # Short contact line shown in the footer on every page.
 # Leave phone empty ("") to hide that line entirely.
-contact:
-  email: "info@veloraptors-hd.de"
+contact: 
+  email: "velociraptorshd@gmail.com"
   phone: ""
