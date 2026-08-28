@@ -4,13 +4,13 @@
    Change a color by editing the value after the colon (keep the #).
    ======================================================================== */
 :root {
-  --color-bg: #53b8dd;          /* page background */
+  --color-bg: #abddef;          /* page background */
   --color-text: #212121;        /* main body text */
-  --color-text-muted: #74ff0a;  /* captions, dates, secondary text */
-  --color-primary: #bd49e4;     /* links, headings, buttons */
-  --color-primary-dark: #274a24;/* hover/active state of the above */
-  --color-accent: #d4691e;      /* focus outline, small highlights */
-  --color-surface: #f6f4ef;     /* section backgrounds, cards */
+  --color-text-muted: #27173c;  /* captions, dates, secondary text */
+  --color-primary: hsl(285, 76%, 36%);     /* links, headings, buttons */
+  --color-primary-dark: #2b003d;/* hover/active state of the above */
+  --color-accent: #0023b1;      /* focus outline, small highlights */
+  --color-surface: #ffffff;     /* section backgrounds, cards */
   --color-border: #5d00ff;      /* thin lines, dividers */
 
   /* Loaded from Google Fonts via the <link> tags in templates/layout.py —

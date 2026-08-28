@@ -80,7 +80,7 @@ def render_header(lang, page_kind, site):
         nav_items.append(f'<a href="{href}"{current}>{t[kind]}</a>')
     nav_html = "".join(nav_items)
 
-    logo_src = asset_url("/images/logo.svg", site)
+    logo_src = asset_url("/images/logo.jpg", site)
 
     return f"""<header class="site-header">
   <div class="wrap">
@@ -176,7 +176,7 @@ def render_page(lang, page_kind, title, description, body_html, chapters, site):
     alt_href = page_url(alt_lang, page_kind, site)
     css_href = asset_url("/css/style.css", site)
     js_src = asset_url("/js/main.js", site)
-    icon_href = asset_url("/images/logo.svg", site)
+    icon_href = asset_url("/images/logo.jpg", site)
 
     return f"""<!DOCTYPE html>
 <html lang="{lang}">

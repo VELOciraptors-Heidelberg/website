@@ -1,6 +1,6 @@
 ---
 title: "Imprint"
-description: "Imprint and contact information for VELOciraptors HD"
+description: "Imprint and contact information for VELOciraptors Heidelberg"
 ---
 
 ## Legal Notice (§ 5 TMG)
@@ -20,7 +20,7 @@ Register number: VR 00000
 
 ## Contact
 
-Email: info@veloraptors-hd.de  
+Email: velociraptorshd@gmail.com
 Phone: +49 6221 000000
 
 ## Disclaimer
