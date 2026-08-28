@@ -1,0 +1,28 @@
+---
+title: "Pancake Day"
+date: 2025-02-26
+draft: false
+type: "blog"
+image: "blog250226.jpg"
+---
+
+**🥞 Pancake Day (04.03.)**
+<div style="margin-top: 1.0rem;"></div>
+
+📍 **ab 18:00 im ZEP (Zeppelinstraße 1)** 
+
+🥣 Teig wird gestellt – bringt Toppings mit!  
+
+👫 Freunde willkommen  
+
+✅ Bitte auf das *Event* reagieren, damit wir wissen, wie viel Teig wir brauchen
+<div style="margin-top: 1.0rem;"></div>
+
+ 
+Nächsten Dienstag feiern wir **Pancake Day**!  
+Wie die Briten, verbrauchen wir Butter, Eier & Milch vor der Fastenzeit – mit Pfannkuchen 🥞  
+Wir bringen den Teig (auch vegan), ihr die Toppings!
+<div style="margin-top: 1.0rem;"></div>
+
+
+<img src="/images//blog/blog250226.jpg" alt="Pancake Day" style="width:100%; max-width:500px; display:block; margin: 1.5em auto;" />
