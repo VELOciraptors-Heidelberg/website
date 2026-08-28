@@ -188,6 +188,9 @@ def render_page(lang, page_kind, title, description, body_html, chapters, site):
 <link rel="alternate" hreflang="{lang}" href="{this_href}">
 <link rel="alternate" hreflang="{alt_lang}" href="{alt_href}">
 <link rel="icon" href="{icon_href}">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;600;700;800&family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="{css_href}">
 </head>
 <body>
