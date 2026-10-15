@@ -2,6 +2,7 @@
 title: "Startseite"
 description: "VELOciraptors Heidelberg – Rennrad-Community in Heidelberg"
 ---
+## VELOciraptors Heidelberg
 
 Wir sind eine inklusive Radgruppe aus Heidelberg, die sich gegen jede Form von Faschismus & Diskriminierung stellt. Im Blog findest du, was gerade so ansteht: neue Events, gemeinsame Ausfahrten und mehr. Komm einfach mal mit, wir freuen uns auf dich! 🫶🏼🦖🦕
 
@@ -26,7 +27,6 @@ Aktuell (Stand August 2026) haben wir vier Ausfahrten pro Woche:
 - Mittwoch: Fastest Ride
 - Donnerstag: Speedy Social Ride
 - Samstag: Social Ride
-
 - [Tritt unserer WhatsApp-Community bei](https://chat.whatsapp.com/example)
 - [Folge uns auf Instagram](https://instagram.com/veloraptors_hd)
 - [Werde Mitglied in unserem Strava-Club](https://strava.com/clubs/example)
@@ -41,9 +41,40 @@ Jeden Samstag gibt es den Social Ride: das Tempo ist entspannt und erlaubt Gespr
 ## Häufige Fragen
 Disclaimer: Empfehlungen aus der Community
 
-### Ich habe nur ein Mountain-Bike. Kann ich trotzdem mitfahren?
+<details>
+    <summary><b>Kann ich auch mit einem Gravelbike mitfahren?</b></summary>
+    <p>Ja, klar! Wir freuen uns über alle, die mit uns fahren wollen. Bitte achte darauf, dass dein Fahrrad in einem verkehrssicheren Zustand ist und du die nötige Ausrüstung dabei hast. </p>
+</details>
+    
+<details>
+  <summary><b>Kann ich bei euch mit einem Mountainbike mitfahren?</b></summary>
+  <p>Nein, aufgrund der breiteren Lenker und des Tempos dürfen Mountainbikes bei uns leider nicht mitfahren. Falls Du noch kein Rennrad oder Gravelbike hast, schaue gerne mal in unserer Bikebörse, ob da etwas für dich zum ausprobieren dabei ist.</p>
+</details>
 
-### Ich war noch nie bei einer Gruppenausfahrt. Kann ich trotzdem mitfahren?
+<details>
+    <summary><b>Ich bin noch nie Rennrad gefahren. Kann ich trotzdem mitfahren?</b></summary>
+    <p>Auf jeden Fall! Wir freuen uns immer ganz besonders über neue Gesichter und normalerweise sind bei jedem Ride zwei, drei Neue dabei. Komm gerne einfach zu einem unserer Social Rides.</p>
+</details>
+
+<details>
+    <summary><b> Ist der Speedy/ Fastest Ride auch etwas für mich?</b></summary>
+    <p>Der Speedy und der Fastest Ride sind für Fahrer:innen mit Erfahrung in Gruppen. Außerdem setzen wir dort ein höheres Tempo voraus. Wenn Du dir nicht sicher bist, ob du dort mitfahren kannst, sprich gerne jemanden von uns an. </p>
+</details>
+
+<details>
+    <summary><b>Bin ich auf euren Ausfahrten versichert?</b></summary>
+    <p>Nein, wir können für die Ausfahrten leider keinerlei Haftung übernehmen. Bitte achte auf deine eigene Sicherheit und die der anderen. Wir empfehlen dir unbedingt, eine private Haftpflichtversicherung sowie ggf. eine Unfallversicherung abzuschließen. </p>
+</details>
+
+<details>
+    <summary><b>Wo kann ich euren Merch kaufen?</b></summary>
+    <p>Das geht über ein Google Formular, das Du am einfachsten in unserer WhatsApp Community bekommst. Frage einfach einen Admin.</p>
+</details>
+
+<details>
+    <summary><b>Wie kann ich euch unterstützen?</b></summary>
+    <p>Wir freuen uns über jede Form der Unterstützung! Du kannst uns z.B. durch Spenden, Sponsoring, Mitarbeit bei der Organisation von Ausfahrten oder Events, oder durch das Teilen unserer Inhalte in sozialen Medien unterstützen. Kontaktiere uns gerne, wenn du Interesse hast!</p>
+</details>
 
 ## LINKS
 - 

@@ -5,13 +5,13 @@
    ======================================================================== */
 :root {
   --color-bg: #abddef;          /* page background */
-  --color-text: #212121;        /* main body text */
-  --color-text-muted: #27173c;  /* captions, dates, secondary text */
-  --color-primary: hsl(285, 76%, 36%);     /* links, headings, buttons */
-  --color-primary-dark: #2b003d;/* hover/active state of the above */
-  --color-accent: #0023b1;      /* focus outline, small highlights */
-  --color-surface: #ffffff;     /* section backgrounds, cards */
-  --color-border: #5d00ff;      /* thin lines, dividers */
+  --color-text: #27173c;        /* main body text */
+  --color-text-muted: #51415d;  /* captions, dates, secondary text */
+  --color-primary: #702d91;     /* links, headings, buttons */
+  --color-primary-dark: #4b1b65;/* hover/active state of the above */
+  --color-accent: #f4e85a;      /* focus outline, small highlights */
+  --color-surface: #f5eff9;     /* section backgrounds, cards */
+  --color-border: #c8b5d5;      /* thin lines, dividers */
 
   /* Loaded from Google Fonts via the <link> tags in templates/layout.py —
      the fallback fonts after the comma still apply if that ever fails. */
