@@ -76,5 +76,9 @@ Disclaimer: Empfehlungen aus der Community
     <p>Wir freuen uns über jede Form der Unterstützung! Du kannst uns z.B. durch Spenden, Sponsoring, Mitarbeit bei der Organisation von Ausfahrten oder Events, oder durch das Teilen unserer Inhalte in sozialen Medien unterstützen. Kontaktiere uns gerne, wenn du Interesse hast!</p>
 </details>
 
-## LINKS
-- 
+## Unterstützenswerte Initativen
+- [Ruprecht Rides](https://ruprechtrides.de/)
+- [Junger ADFC Rhein-Neckar](https://rhein-neckar.adfc.de/)
+- [Radentscheid Heidelberg](https://radentscheid-heidelberg.de/)
+- [Kein Schritt nach Rechts](https://keinschrittnachrechts.de/)
+- Studis gegen Rechts
